@@ -1,0 +1,11 @@
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\bin\Debug\netcoreapp2.0\Human.deps.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\bin\Debug\netcoreapp2.0\Human.runtimeconfig.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\bin\Debug\netcoreapp2.0\Human.runtimeconfig.dev.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\bin\Debug\netcoreapp2.0\Human.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\bin\Debug\netcoreapp2.0\Human.pdb
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\obj\Debug\netcoreapp2.0\Human.csprojResolveAssemblyReference.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\obj\Debug\netcoreapp2.0\Human.csproj.CoreCompileInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\obj\Debug\netcoreapp2.0\Human.AssemblyInfoInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\obj\Debug\netcoreapp2.0\Human.AssemblyInfo.cs
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\obj\Debug\netcoreapp2.0\Human.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Human\obj\Debug\netcoreapp2.0\Human.pdb
